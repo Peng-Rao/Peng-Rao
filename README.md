@@ -8,10 +8,18 @@
   <div>&nbsp;</div>
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  ![github-contribution-grid-snake](https://raw.githubusercontent.com/huangxc6/huangxc6/output/github-contribution-grid-snake.svg)
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Peng-Rao/Peng-Rao/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Peng-Rao/Peng-Rao/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Peng-Rao/Peng-Rao/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peng-Rao/Peng-Rao/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peng-Rao/Peng-Rao/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Peng-Rao/Peng-Rao/output/github-snake.svg" />
+</picture>
   </picture>
 
 </div>
