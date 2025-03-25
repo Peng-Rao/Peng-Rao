@@ -3,7 +3,11 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Happy Every Day!&center=true&size=27" />
-  </div>  
+  </div>
+  <!-- profile logo 个人资料徽标 -->
+  <div>
+    <a href="https://www.linkedin.com/in/peng-rao-1b306a2a3/"><img src="https://img.shields.io/badge/Linkin-领英-blue" /></a>&emsp;
+  </div>
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peng-Rao/Peng-Rao/output/github-snake-dark.svg" />
