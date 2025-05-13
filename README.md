@@ -1,9 +1,4 @@
 <div align="center">
-
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Happy Every Day!&center=true&size=27" />
-  </div>
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://www.linkedin.com/in/peng-rao-1b306a2a3/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>&emsp;
